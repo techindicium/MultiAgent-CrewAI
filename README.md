@@ -31,7 +31,7 @@ This project leverages the Crew AI framework to create a multi-agent system that
 1. **Clone the Repository**
     ```sh
     git clone https://github.com/techindicium/MultiAgent-CrewAI.git
-    cd automated-vacation-planner
+    cd MultiAgent-CrewAI
     ```
 
 2. **Install Required Packages**
