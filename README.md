@@ -19,6 +19,12 @@ This project leverages the Crew AI framework to create a multi-agent system that
 - `utils.py`: Utility functions for fetching API keys.
 - `requirements.txt`: List of required Python packages.
 
+Additional Multi-Agent Examples for You to Explore:
+- `python_writer.py`: Describe a task you want implemented in Python and the crew will output the Python code.
+- `stock_analysis.py`: Describe a stock you want analyzed in the market and the crew will give feedback on it.
+- `resume_builder.py`: Give the crew your current resume in markdown format along with a job posting link and your github. It will tailor the resume to the job you are applying for.
+
+
 ## Setup Instructions
 
 ### Prerequisites
